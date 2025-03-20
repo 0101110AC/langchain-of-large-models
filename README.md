@@ -74,11 +74,6 @@ langchain-of-large-models/
 
 ## 贡献
 
-欢迎任何形式的贡献！如果你有任何问题或建议，请在[Issues](https://github.com/your-repo/issues)中提出。如果你想要贡献代码，请先阅读[贡献指南](CONTRIBUTING.md)。
+欢迎任何形式的贡献！如果你有任何问题或建议，请在[Issues](https://github.com/your-repo/issues)中提出。如果你想要贡献代码，请先联系本人（3324974030@qq.com)
 
-## 许可证
 
-本项目采用[MIT许可证](LICENSE)。
-```
-
-你可以根据实际情况对上述内容进行调整和补充。希望这个README文件对你有帮助！
